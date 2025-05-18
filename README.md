@@ -2,7 +2,7 @@
 A geospatial project for the OpenAI to Z Challenge, using NDVI and texture analysis in Google Earth Engine to detect suspected archaeological zones in the Amazon.
 # 🏺 Amazon Archaeology Detection via Google Earth Engine
 
-This project was developed for the [OpenAI to Z Challenge (2024)]([https://www.kaggle.com/competitions/openai-to-z-challenge-2024](https://www.kaggle.com/competitions/openai-to-z-challenge) and aims to discover possible archaeological sites in the western Amazon basin using satellite imagery and NDVI-based anomaly detection via Google Earth Engine (GEE).
+This project was developed for the [OpenAI to Z Challenge (2024)]([https://www.kaggle.com/competitions/openai-to-z-challenge-2024]and aims to discover possible archaeological sites in the western Amazon basin using satellite imagery and NDVI-based anomaly detection via Google Earth Engine (GEE).
 
 ## 🌍 Region of Interest
 **Vale do Javari**, a remote area along the Brazil–Peru border, rich in ecological diversity and potentially undocumented historical human activity.
